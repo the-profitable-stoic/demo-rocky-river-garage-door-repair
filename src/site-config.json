@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Rocky River Garage Door Repair",
+    "phone": "+14408052138",
+    "category": "garage door repair",
+    "city": "Cleveland",
+    "state": "OH"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Cleveland's Garage Door Experts",
+      "heroSubline": "Reliable repairs and installations. Serving Cleveland and surrounding communities with pride and expertise.",
+      "aboutTitle": "Your Trusted Garage Door Partner",
+      "aboutText": [
+        "Rocky River Garage Door Repair started with a simple goal: to provide honest, reliable garage door services to our neighbors in Cleveland. Frustrated by unreliable contractors and subpar workmanship, we set out to build a company that prioritizes quality and customer satisfaction above all else.",
+        "We believe in transparent communication, fair pricing, and doing the job right the first time. Our team is comprised of experienced technicians who are passionate about their craft and dedicated to providing exceptional service. We approach every project with meticulous attention to detail, ensuring your garage door is functioning safely and efficiently.",
+        "As a local business, we are deeply invested in the well-being of our community. We actively support local initiatives and strive to be a responsible corporate citizen. When you choose Rocky River Garage Door Repair, you're not just getting a service; you're supporting a local business that cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Fast Response",
+          "description": "We understand garage door issues can be urgent. We offer prompt and reliable service to get your door back on track."
+        },
+        {
+          "title": "Expert Technicians",
+          "description": "Our team is highly trained and experienced in all aspects of garage door repair and installation."
+        },
+        {
+          "title": "Fair Pricing",
+          "description": "We provide transparent and competitive pricing with no hidden fees. You'll know exactly what to expect."
+        },
+        {
+          "title": "Quality Workmanship",
+          "description": "We stand behind our work and use only the highest quality parts and materials to ensure long-lasting results."
+        }
+      ],
+      "ctaHeadline": "Need Garage Door Service?",
+      "ctaSubline": "Contact us today for a free quote and experience the Rocky River Garage Door Repair difference."
+    },
+    "services": [
+      {
+        "slug": "garage-door-spring-repair",
+        "name": "Garage Door Spring Repair",
+        "shortDescription": "Expert repair and replacement of broken or worn garage door springs.",
+        "description": "Garage door springs are under immense tension and can be dangerous to handle without the proper tools and expertise. A broken spring can render your garage door inoperable and potentially cause injury. Our team is equipped to safely and efficiently repair or replace broken torsion springs and extension springs.\n\nWe start with a thorough inspection to determine the type and size of spring needed. We use only high-quality, durable springs designed to withstand the harsh Cleveland climate and frequent use. Our technicians will carefully remove the old spring, install the new one, and properly balance the door to ensure smooth and safe operation.\n\nIgnoring a broken spring can lead to further damage to your garage door opener and other components. Don't risk injury or costly repairs. Call Rocky River Garage Door Repair for prompt and professional spring repair services. We'll get your door back in working order quickly and safely.",
+        "process": [
+          "Step 1: Safety Assessment: We prioritize safety by securing the door and releasing tension.",
+          "Step 2: Spring Removal: Carefully remove the damaged or broken spring.",
+          "Step 3: New Spring Installation: Install a new, high-quality spring that matches the door's specifications.",
+          "Step 4: Balance and Adjustment: Balance the door and adjust tension for smooth and safe operation."
+        ],
+        "benefits": [
+          "Safe and reliable spring replacement",
+          "Extended lifespan of your garage door",
+          "Smooth and quiet door operation",
+          "Prevention of further damage to your garage door system"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door spring is broken?",
+            "answer": "Common signs include a loud bang, a visible gap in the spring, or a door that is difficult or impossible to open."
+          },
+          {
+            "question": "Is it dangerous to replace a garage door spring myself?",
+            "answer": "Yes, garage door springs are under high tension and can cause serious injury if handled improperly. It's best to leave this task to trained professionals."
+          },
+          {
+            "question": "How long does a garage door spring typically last?",
+            "answer": "The lifespan of a garage door spring depends on usage and maintenance. On average, they last between 7 to 12 years."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-opener-repair",
+        "name": "Garage Door Opener Repair",
+        "shortDescription": "Troubleshooting and repair of all major garage door opener brands.",
+        "description": "A malfunctioning garage door opener can be frustrating and inconvenient, especially during Cleveland's harsh winters. Whether your opener is making strange noises, failing to open or close properly, or simply not responding, our team can diagnose and repair the issue quickly and efficiently.\n\nWe are experienced in working with all major brands of garage door openers, including Chamberlain, LiftMaster, Genie, and more. We carry a wide range of replacement parts in our service vehicles, allowing us to complete most repairs on the spot. From repairing faulty sensors to replacing damaged gears, we have the expertise to get your opener back in working order.\n\nWe understand the importance of safety and security. We'll thoroughly inspect your opener to ensure it meets all safety standards and is functioning properly. Don't let a faulty opener compromise your home's security. Call Rocky River Garage Door Repair for reliable opener repair services.",
+        "process": [
+          "Step 1: Diagnostic Inspection: Thoroughly inspect the opener to identify the root cause of the problem.",
+          "Step 2: Component Testing: Test individual components like sensors, motors, and circuit boards.",
+          "Step 3: Repair or Replacement: Repair or replace faulty components with high-quality parts.",
+          "Step 4: Safety Check and Adjustment: Perform a safety check and adjust settings for smooth and reliable operation."
+        ],
+        "benefits": [
+          "Restored functionality of your garage door opener",
+          "Enhanced safety and security",
+          "Prevention of further damage to the opener system",
+          "Extended lifespan of your garage door opener"
+        ],
+        "faq": [
+          {
+            "question": "Why is my garage door opener not working?",
+            "answer": "Possible causes include a dead battery in the remote, a tripped circuit breaker, or a faulty sensor."
+          },
+          {
+            "question": "How often should I have my garage door opener serviced?",
+            "answer": "We recommend having your garage door opener serviced annually to ensure optimal performance and safety."
+          },
+          {
+            "question": "Can you program my garage door opener to my car?",
+            "answer": "Yes, our technicians can program your garage door opener to most car models."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-cable-repair",
+        "name": "Garage Door Cable Repair",
+        "shortDescription": "Safe and efficient repair or replacement of damaged garage door cables.",
+        "description": "Garage door cables play a crucial role in lifting and lowering your garage door safely. Damaged or frayed cables can create a dangerous situation and prevent your door from functioning properly. Our team is trained to handle cable repairs with precision and care.\n\nWe use only high-quality cables that are designed to withstand the weight and stress of your garage door. We'll carefully inspect the cables, identify any points of wear or damage, and either repair or replace them as needed. We'll also ensure that the cables are properly tensioned and aligned to ensure smooth and safe operation.\n\nAttempting to repair garage door cables yourself can be extremely dangerous. Don't risk injury or further damage to your door. Call Rocky River Garage Door Repair for prompt and professional cable repair services. We'll get your door back in working order quickly and safely.",
+        "process": [
+          "Step 1: Safety Precautions: Secure the door and release tension on the cables.",
+          "Step 2: Cable Inspection: Thoroughly inspect cables for damage or wear.",
+          "Step 3: Cable Replacement: Replace damaged cables with high-quality replacements.",
+          "Step 4: Tension Adjustment: Adjust cable tension for balanced and safe operation."
+        ],
+        "benefits": [
+          "Safe and reliable cable replacement",
+          "Smooth and quiet door operation",
+          "Prevention of further damage to your garage door system",
+          "Extended lifespan of your garage door"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of damaged garage door cables?",
+            "answer": "Signs include fraying, visible breaks, or a door that is uneven or difficult to open."
+          },
+          {
+            "question": "Can I replace garage door cables myself?",
+            "answer": "Due to the high tension involved, cable replacement can be dangerous. Professional assistance is recommended."
+          },
+          {
+            "question": "How often should garage door cables be inspected?",
+            "answer": "Cables should be inspected at least twice a year for signs of wear or damage."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-roller-replacement",
+        "name": "Garage Door Roller Replacement",
+        "shortDescription": "Replacing worn rollers for smoother and quieter garage door operation.",
+        "description": "Worn or damaged garage door rollers can cause your door to operate noisily and inefficiently. Over time, rollers can become dry, cracked, or even break apart, leading to increased friction and strain on your garage door opener. Replacing your rollers is a simple and cost-effective way to improve the performance and longevity of your garage door.\n\nWe offer a variety of high-quality rollers to suit different door types and budgets. From nylon rollers to steel rollers, we have the right solution for your needs. Our technicians will carefully remove the old rollers and install the new ones, ensuring they are properly lubricated and aligned for smooth and quiet operation.\n\nDon't put up with a noisy and inefficient garage door. Call Rocky River Garage Door Repair for roller replacement services. We'll have your door rolling smoothly in no time.",
+        "process": [
+          "Step 1: Roller Assessment: Inspect existing rollers for wear and damage.",
+          "Step 2: Roller Removal: Carefully remove old and worn rollers.",
+          "Step 3: New Roller Installation: Install high-quality replacement rollers.",
+          "Step 4: Lubrication and Testing: Lubricate rollers and test door operation for smoothness."
+        ],
+        "benefits": [
+          "Quieter garage door operation",
+          "Smoother door movement",
+          "Reduced strain on garage door opener",
+          "Extended lifespan of your garage door"
+        ],
+        "faq": [
+          {
+            "question": "How often should I replace my garage door rollers?",
+            "answer": "Rollers should be replaced every 5-7 years, or sooner if they show signs of wear or damage."
+          },
+          {
+            "question": "What type of rollers are best for my garage door?",
+            "answer": "Nylon rollers are quieter, while steel rollers are more durable. Our technicians can help you choose the best option for your needs."
+          },
+          {
+            "question": "Can I replace garage door rollers myself?",
+            "answer": "While seemingly straightforward, incorrect installation can lead to problems. Professional assistance is recommended."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-panel-replacement",
+        "name": "Garage Door Panel Replacement",
+        "shortDescription": "Replacing damaged or dented garage door panels to restore your door's appearance.",
+        "description": "Garage door panels can become damaged due to accidents, weather, or general wear and tear. Dented or broken panels can detract from your home's curb appeal and compromise the integrity of your garage door. Replacing damaged panels is a cost-effective way to restore your door's appearance and functionality.\n\nWe offer a wide selection of replacement panels to match your existing garage door style and color. Our technicians will carefully remove the damaged panel and install the new one, ensuring a seamless and professional finish. We'll also ensure that the new panel is properly aligned and secured for optimal performance.\n\nDon't let a damaged garage door panel detract from your home's beauty. Call Rocky River Garage Door Repair for panel replacement services. We'll restore your door to its original condition.",
+        "process": [
+          "Step 1: Panel Assessment: Assess damage to accurately match the replacement panel.",
+          "Step 2: Panel Removal: Carefully remove the damaged panel.",
+          "Step 3: New Panel Installation: Install a matching replacement panel.",
+          "Step 4: Alignment and Securing: Ensure proper alignment and secure the new panel in place."
+        ],
+        "benefits": [
+          "Improved curb appeal",
+          "Restored functionality of your garage door",
+          "Prevention of further damage to the door",
+          "Cost-effective alternative to complete door replacement"
+        ],
+        "faq": [
+          {
+            "question": "Can I replace just one panel on my garage door?",
+            "answer": "Yes, in most cases, individual panels can be replaced if they are damaged."
+          },
+          {
+            "question": "How do I match the replacement panel to my existing door?",
+            "answer": "We can help you identify the make, model, and color of your existing door to ensure a perfect match."
+          },
+          {
+            "question": "Is it difficult to replace a garage door panel?",
+            "answer": "Panel replacement can be challenging and requires specialized tools. Professional installation is recommended."
+          }
+        ]
+      },
+      {
+        "slug": "new-garage-door-installation",
+        "name": "New Garage Door Installation",
+        "shortDescription": "Professional installation of new garage doors, tailored to your home's style.",
+        "description": "When it's time for a new garage door, Rocky River Garage Door Repair is here to help. Whether you're looking to upgrade your home's curb appeal, improve energy efficiency, or simply replace an old and worn-out door, we offer a wide selection of high-quality garage doors to suit your needs and budget.\n\nWe carry doors from leading manufacturers in a variety of styles, materials, and colors. From traditional raised-panel doors to modern flush-panel designs, we have the perfect door to complement your home's architecture. Our team will work with you to choose the right door for your needs and provide expert installation services.\n\nWe understand that a new garage door is a significant investment. That's why we offer competitive pricing and financing options to make your purchase more affordable. We'll also handle all aspects of the installation process, from removing your old door to hauling away the debris. With Cleveland's weather, a well-insulated and properly installed door is a must.",
+        "process": [
+          "Step 1: Consultation and Selection: Discuss your needs and select the perfect garage door.",
+          "Step 2: Old Door Removal: Safely remove your existing garage door.",
+          "Step 3: New Door Installation: Expertly install your new garage door.",
+          "Step 4: Final Inspection and Testing: Perform a final inspection and test the door's operation."
+        ],
+        "benefits": [
+          "Improved curb appeal",
+          "Increased home value",
+          "Enhanced security",
+          "Improved energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How much does a new garage door cost?",
+            "answer": "The cost of a new garage door depends on the style, material, and features you choose. We offer free estimates to help you budget for your project."
+          },
+          {
+            "question": "How long does it take to install a new garage door?",
+            "answer": "Installation typically takes one to two days, depending on the complexity of the project."
+          },
+          {
+            "question": "Do you offer warranties on new garage doors?",
+            "answer": "Yes, all of our new garage doors come with a manufacturer's warranty."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Cleveland",
+        "slug": "cleveland-oh",
+        "state": "OH",
+        "content": "Rocky River Garage Door Repair is proud to offer comprehensive garage door services to the residents and businesses of Cleveland, Ohio. From the bustling downtown area to the historic neighborhoods, we understand the unique needs of Cleveland property owners. Our experienced technicians are equipped to handle any garage door issue, from routine maintenance to emergency repairs and complete replacements.\n\nWe are committed to providing prompt, reliable, and affordable service throughout Cleveland. Whether you're dealing with a broken spring, a malfunctioning opener, or simply need a new garage door installed, you can count on Rocky River Garage Door Repair to deliver exceptional results. We use only high-quality parts and materials to ensure the longevity and performance of your garage door system.",
+        "localContext": "Cleveland is a major city on the shores of Lake Erie, known for its vibrant arts and culture scene, diverse neighborhoods, and thriving business community. We understand the needs of Cleveland residents.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Parma",
+          "Shaker Heights"
+        ]
+      },
+      {
+        "city": "Lakewood",
+        "slug": "lakewood-oh",
+        "state": "OH",
+        "content": "Rocky River Garage Door Repair extends its expert garage door services to the charming city of Lakewood, Ohio. Known for its beautiful parks, vibrant downtown, and historic homes, Lakewood residents appreciate quality and reliability. We are dedicated to providing top-notch garage door repair, maintenance, and installation services to meet the specific needs of this community.\n\nOur team is familiar with the diverse architectural styles found in Lakewood and can provide solutions that complement your home's aesthetic. We offer a wide range of garage door styles and materials to choose from, ensuring you find the perfect fit for your property. We are dedicated to prompt, reliable, and efficient service.",
+        "localContext": "Lakewood is a thriving suburb of Cleveland, known for its walkable streets, independent businesses, and strong sense of community. We are proud to serve the residents of Lakewood.",
+        "nearbyAreas": [
+          "Cleveland",
+          "Rocky River",
+          "Bay Village"
+        ]
+      },
+      {
+        "city": "Rocky River",
+        "slug": "rocky-river-oh",
+        "state": "OH",
+        "content": "As our namesake implies, Rocky River Garage Door Repair is deeply rooted in the Rocky River, Ohio community. We are committed to providing our neighbors with the highest quality garage door services, from routine maintenance to complex repairs and new installations. We understand the unique needs of Rocky River homeowners and businesses and strive to exceed their expectations.\n\nOur experienced technicians are available to respond quickly to your garage door needs. We use only the best parts and materials to ensure your garage door operates smoothly and reliably for years to come. We pride ourselves on our commitment to customer satisfaction and our dedication to providing honest, transparent service.",
+        "localContext": "Rocky River is a desirable suburb of Cleveland, known for its excellent schools, beautiful parks, and strong sense of community. We are proud to be a part of the Rocky River community.",
+        "nearbyAreas": [
+          "Bay Village",
+          "Lakewood",
+          "Westlake"
+        ]
+      },
+      {
+        "city": "Westlake",
+        "slug": "westlake-oh",
+        "state": "OH",
+        "content": "Rocky River Garage Door Repair is pleased to offer our professional garage door services to the residents and businesses of Westlake, Ohio. Known for its excellent schools, beautiful homes, and thriving business community, Westlake demands quality and reliability. We are committed to providing top-notch garage door solutions to meet the specific needs of this area.\n\nWhether you need a quick repair, routine maintenance, or a complete garage door replacement, our experienced technicians are here to help. We offer a wide selection of garage doors to complement any architectural style, and we use only high-quality parts and materials to ensure lasting performance. We are committed to prompt and professional service.",
+        "localContext": "Westlake is a growing suburb of Cleveland, known for its family-friendly atmosphere and convenient access to shopping and dining. We understand the needs of Westlake residents and businesses.",
+        "nearbyAreas": [
+          "North Olmsted",
+          "Bay Village",
+          "Avon"
+        ]
+      },
+      {
+        "city": "Parma",
+        "slug": "parma-oh",
+        "state": "OH",
+        "content": "Rocky River Garage Door Repair proudly serves the residents of Parma, Ohio, providing reliable and affordable garage door services. Parma is a large and diverse community with a variety of housing styles, and we are equipped to handle any garage door issue, regardless of the age or style of your home.\n\nFrom broken springs to malfunctioning openers, our experienced technicians can diagnose and repair any problem quickly and efficiently. We also offer a wide range of new garage doors to choose from, if you're looking to upgrade your home's curb appeal or improve its security. We strive to provide prompt, professional, and courteous service to all of our Parma customers.",
+        "localContext": "Parma is a large suburb of Cleveland, known for its affordable housing, diverse population, and convenient location. We are committed to serving the residents of Parma.",
+        "nearbyAreas": [
+          "Cleveland",
+          "Brooklyn",
+          "Seven Hills"
+        ]
+      },
+      {
+        "city": "Bay Village",
+        "slug": "bay-village-oh",
+        "state": "OH",
+        "content": "Rocky River Garage Door Repair is delighted to offer our expert garage door services to the residents of Bay Village, Ohio. Known for its beautiful lakefront homes and strong community spirit, Bay Village residents expect quality and attention to detail. We are committed to providing top-notch garage door solutions that meet the unique needs of this area.\n\nWhether you need a repair, maintenance, or a new garage door installation, our experienced technicians are here to help. We offer a wide selection of garage doors to complement any architectural style, and we use only high-quality parts and materials to ensure lasting performance. We deliver reliable service.",
+        "localContext": "Bay Village is a charming suburb of Cleveland located on the shores of Lake Erie, known for its beautiful parks and excellent schools. We are proud to serve the residents of Bay Village.",
+        "nearbyAreas": [
+          "Rocky River",
+          "Westlake",
+          "Avon Lake"
+        ]
+      },
+      {
+        "city": "Avon",
+        "slug": "avon-oh",
+        "state": "OH",
+        "content": "Rocky River Garage Door Repair extends its services to Avon, Ohio, providing reliable and professional garage door solutions to homeowners and businesses alike. Avon is a rapidly growing community with a mix of residential and commercial properties, and we are equipped to handle any garage door need, from simple repairs to complete installations.\n\nWe understand the importance of a properly functioning garage door for security and convenience. Our experienced technicians are available to respond quickly to your needs and provide expert advice on the best solutions for your property. We use only high-quality parts and materials to ensure the longevity and performance of your garage door system.",
+        "localContext": "Avon is a rapidly growing city in Lorain County, known for its excellent schools, family-friendly atmosphere, and convenient access to shopping and dining. We understand the needs of Avon residents.",
+        "nearbyAreas": [
+          "Avon Lake",
+          "Westlake",
+          "North Ridgeville"
+        ]
+      },
+      {
+        "city": "Strongsville",
+        "slug": "strongsville-oh",
+        "state": "OH",
+        "content": "Rocky River Garage Door Repair is proud to serve the residents and businesses of Strongsville, Ohio, offering comprehensive garage door services at competitive prices. Strongsville is a large and thriving community with a mix of residential and commercial properties, and we are committed to providing reliable and efficient service to all of our customers.\n\nWhether you need a quick repair, routine maintenance, or a complete garage door replacement, our experienced technicians are here to help. We offer a wide selection of garage doors to complement any architectural style, and we use only high-quality parts and materials to ensure lasting performance. We value customer satisfaction.",
+        "localContext": "Strongsville is a large suburb of Cleveland, known for its excellent schools, parks, and recreation facilities. We are committed to serving the residents of Strongsville.",
+        "nearbyAreas": [
+          "North Royalton",
+          "Middleburg Heights",
+          "Parma"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Garage Door Spring Repair",
+        "text": "Our garage door spring broke on a Saturday morning, and I was worried we'd be stuck all weekend. Rocky River Garage Door Repair came out within a couple of hours and had it fixed in no time! The technician was professional, friendly, and explained everything clearly. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Garage Door Opener Repair",
+        "text": "My garage door opener was making a terrible grinding noise and wouldn't close properly. They quickly diagnosed the problem and replaced a worn-out gear. The repair was done efficiently, and the door now works perfectly. A little pricey, but worth it for the quality of service.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "New Garage Door Installation",
+        "text": "We recently had Rocky River Garage Door Repair install a new garage door, and we couldn't be happier. The team was professional from start to finish, helping us choose the right door for our home and installing it with precision. Our house in Lakewood looks so much better now!",
+        "date": "2024-09-08"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Garage Door Cable Repair",
+        "text": "One of the cables on my garage door snapped, leaving the door hanging crookedly. I called Rocky River Garage Door Repair, and they were able to come out the same day. The technician quickly replaced the cable and made sure everything was working smoothly. Great service!",
+        "date": "2025-01-28"
+      },
+      {
+        "name": "Ashley R.",
+        "rating": 4,
+        "service": "Garage Door Roller Replacement",
+        "text": "Our garage door was making a lot of noise, so we decided to have the rollers replaced. The technician from Rocky River Garage Door Repair was very knowledgeable and recommended a quieter roller. The door now opens and closes much more smoothly and quietly. Appreciated the quick and efficient service.",
+        "date": "2024-07-12"
+      },
+      {
+        "name": "Tom S.",
+        "rating": 5,
+        "service": "Garage Door Panel Replacement",
+        "text": "After a particularly rough winter, one of the panels on our garage door was starting to rust through. Rocky River Garage Door was able to match the existing panel perfectly and replace it without any issues. Looks like new! Thanks for the great work.",
+        "date": "2025-04-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Garage Door Repair Cleveland OH",
+        "description": "Reliable garage door repair & installation in Cleveland. Fast service, expert technicians, & fair pricing. Call today!"
+      },
+      "about": {
+        "title": "About Us - Garage Door Repair",
+        "description": "Learn about our garage door repair company in Cleveland. Quality workmanship, local expertise, serving our community."
+      },
+      "services": {
+        "title": "Garage Door Services",
+        "description": "Comprehensive garage door services in Cleveland: repair, installation, openers, springs, cables, and more. Get a free quote!"
+      },
+      "contact": {
+        "title": "Contact Us - Garage Door Repair",
+        "description": "Contact us for garage door repair in Cleveland. Fast response, reliable service, and expert solutions. Call or email us today!"
+      },
+      "reviews": {
+        "title": "Customer Reviews - Garage Door",
+        "description": "Read what our customers are saying about our garage door repair services in Cleveland. Honest feedback, quality workmanship."
+      },
+      "service-areas": {
+        "title": "Service Areas - Garage Door Repair",
+        "description": "Garage door repair services in Cleveland and surrounding areas. Fast, reliable, and affordable. Check if we serve your neighborhood."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "garage-door-spring-repair": "/images/service-garage-door-spring-repair.webp",
+      "garage-door-opener-repair": "/images/service-garage-door-opener-repair.webp",
+      "garage-door-cable-repair": "/images/service-garage-door-cable-repair.webp",
+      "garage-door-roller-replacement": "/images/service-garage-door-roller-replacement.webp",
+      "garage-door-panel-replacement": "/images/service-garage-door-panel-replacement.webp",
+      "new-garage-door-installation": "/images/service-new-garage-door-installation.webp"
+    },
+    "servicesResponsive": {
+      "garage-door-spring-repair": {
+        "src": "/images/service-garage-door-spring-repair.webp",
+        "srcset": "/images/service-garage-door-spring-repair-400w.webp 400w, /images/service-garage-door-spring-repair-800w.webp 800w, /images/service-garage-door-spring-repair-1200w.webp 1200w, /images/service-garage-door-spring-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-opener-repair": {
+        "src": "/images/service-garage-door-opener-repair.webp",
+        "srcset": "/images/service-garage-door-opener-repair-400w.webp 400w, /images/service-garage-door-opener-repair-800w.webp 800w, /images/service-garage-door-opener-repair-1200w.webp 1200w, /images/service-garage-door-opener-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-cable-repair": {
+        "src": "/images/service-garage-door-cable-repair.webp",
+        "srcset": "/images/service-garage-door-cable-repair-400w.webp 400w, /images/service-garage-door-cable-repair-800w.webp 800w, /images/service-garage-door-cable-repair-1200w.webp 1200w, /images/service-garage-door-cable-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-roller-replacement": {
+        "src": "/images/service-garage-door-roller-replacement.webp",
+        "srcset": "/images/service-garage-door-roller-replacement-400w.webp 400w, /images/service-garage-door-roller-replacement-800w.webp 800w, /images/service-garage-door-roller-replacement-1200w.webp 1200w, /images/service-garage-door-roller-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-panel-replacement": {
+        "src": "/images/service-garage-door-panel-replacement.webp",
+        "srcset": "/images/service-garage-door-panel-replacement-400w.webp 400w, /images/service-garage-door-panel-replacement-800w.webp 800w, /images/service-garage-door-panel-replacement-1200w.webp 1200w, /images/service-garage-door-panel-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "new-garage-door-installation": {
+        "src": "/images/service-new-garage-door-installation.webp",
+        "srcset": "/images/service-new-garage-door-installation-400w.webp 400w, /images/service-new-garage-door-installation-800w.webp 800w, /images/service-new-garage-door-installation-1200w.webp 1200w, /images/service-new-garage-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

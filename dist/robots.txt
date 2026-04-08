@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-rocky-river-garage-door-repair.dream-surge.com/sitemap-index.xml
